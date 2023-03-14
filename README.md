@@ -1,2 +1,3 @@
-# inf_netsim
-project for studies for cpp SOLID principles revision
+# NetSim
+
+https://github.com/google/googletest/tree/master
